@@ -2,6 +2,19 @@ body
 {
     text-align: center;
     font-family: arial;
+    background-color: #010015;
+}
+#cabecera
+{
+    background-color: #0a1535;
+    padding: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+}
+#post
+{
+    margin: 40px;
 }
 #container h1 
 {
@@ -12,9 +25,10 @@ body
     width: 70%;
     border: 1px solid black; 
     padding: 40px;
-    font-size: 40px;
+    font-size: 20px;
     margin: auto;
     text-align: left;
+    background-color: aliceblue;
 }
 /* #container-text
 {
