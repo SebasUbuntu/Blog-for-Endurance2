@@ -4,13 +4,24 @@ body
     font-family: arial;
     background-color: #010015;
 }
+#logo
+{
+    width: 36px;
+}
+#sub
+{
+    font-weight: lighter;
+}
 #cabecera
 {
-    background-color: #0a1535;
-    padding: 20px;
+    background-color: #0a1535 ;
+    padding: 14px;
     color: aliceblue;
     font-weight: bold;
     font-size: 25px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
 }
 #post
 {
