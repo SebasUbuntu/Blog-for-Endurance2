@@ -23,6 +23,15 @@ body
     align-items: center;
     gap: 30px;
 }
+#footer
+{
+    background-color: #2224297d;
+    padding-block: 5px;
+    color: aliceblue;
+    font-weight: lighter;
+    font-size: 15px;
+    text-align: center; 
+}
 #post
 {
     margin: 40px;
